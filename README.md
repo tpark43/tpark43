@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## I am a full stack developer loving open source
 
 - :office: I am currently working on GDCT. 
-- :main tech: React JS, Nest JS
+- :book: React JS, Nest JS
 
 :house: [Portfolio] **|**
 :information_source: [LinkedIn] **|**
